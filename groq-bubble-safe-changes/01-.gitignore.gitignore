@@ -1,0 +1,9 @@
+/*
+Model: llama-3.1-8b-instant
+Original desired path: .gitignore
+Action: create
+Reason: Add a .gitignore file to store the groq-bubble-safe-changes directory
+Safe apply mode: proposed content only; not written to original path.
+*/
+
+*groq-bubble-safe-changes/*
