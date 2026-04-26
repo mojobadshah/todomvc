@@ -1,0 +1,13 @@
+/*
+Model: llama-3.1-8b-instant
+Original desired path: groq-bubble-safe-changes/.travis.yml
+Action: create
+Reason: Add a .travis.yml file to specify the travis environment for the groq-bubble-safe-changes workflow
+Safe apply mode: proposed content only; not written to original path.
+*/
+
+language: node_js
+dependencies:
+  - groq-bubble-safe-changes
+script:
+  - npm run test
