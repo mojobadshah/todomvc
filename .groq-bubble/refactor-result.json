@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-04-26T02:45:42.075Z",
+  "model": "llama-3.1-8b-instant",
+  "source": "tastejs/todomvc",
+  "target": "mojobadshah/todomvc",
+  "baseBranch": "master",
+  "branch": "groq-poly-refactor-todomvc-2026-04-26t02-45-41-502z",
+  "safeApplyMode": true,
+  "summary": "Refactor tastejs/todomvc to use groq-bubble-safe-changes",
+  "risk": "low",
+  "note": "Generated changes are stored in groq-bubble-safe-changes/* for safe review. Original source paths are not overwritten."
+}
